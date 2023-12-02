@@ -40,11 +40,11 @@
 
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 
-<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/𝙂𝙧𝙪𝙥𝙤 𝙇𝙤𝙡𝙞𝙗𝙤𝙩-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/𝙂𝙧𝙪𝙥𝙤 𝙇𝙤𝙡𝙞𝙗𝙤𝙩 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/🐈 𝐆𝐚𝐭𝐚𝐁𝐨𝐭 & 𝐋𝐨𝐥𝐢𝐁𝐨𝐭 🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/𝐋𝐨𝐥𝐢𝐁𝐨𝐭 & 𝐙𝐢𝐫𝐚𝐱𝐁𝐨𝐭 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/💖 🅜🅤🅛🅣🅘 🅑🅞🅣🅢 💖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/ItoBot-MRX-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/ItoBot-MRX 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/ItoBot-MRX-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/ItoBot-MRX -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/💖ItoBot-MRX 💖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="https://chat.whatsapp.com/GgAsDzZNEMA8Z2fKK2GNSZ" target="blank"><img src="https://img.shields.io/badge/Grupo ayuda sobre el bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -67,9 +67,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 -----
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 
 > **Note** Descargué y Descomprime
-### [`LoliBot-MD ~ Archivos`](https://github.com/Mesita12/ItoBot-MRX/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/Termux-ItoBot-MX-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/i1xjB4bmYCc?si=JBYC22-3mBkLpB8c)
+### [`ItoBot-MRX ~ Archivos`]
 ```bash
 termux-setup-storage
 ```
@@ -135,30 +133,10 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 #### Para que no pierda su progreso en ItoBot-MRX, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX             
 -----
-### ✅ QUIERE TENER EL BOT 24/7 ACTIVO ACTIVAR EL BOXMINEHOST  
-[![blog](https://img.shields.io/badge/BoxMine-ItoBot-MRX-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/wWyBHtKzx9Q?si=ihODwzs0pnVhzs5s)
 
-<a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="125px"></a>
-### BoxMine World
-----
-### 🟣 ACTIVAR EN HEROKU 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mesita12/ItoBot-MRX) 
-### 👇 Añada lo siguente al Buildpack: 
-```bash
-heroku/nodejs
-```
-```bash
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-```
-```bash
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
------
-- [x] Resultado <details><summary>Buildpack</summary><img src="https://i.imgur.com/t3Xzgnh.jpeg"></details>
 ------------------
 ### ⚡ ACTIVA EL REPLIT
-[![blog](https://img.shields.io/badge/Lolibot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![blog](https://img.shields.io/badge/LolibotItoBot-MRX-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/SMjCcfuyWQE)
 <a target="_blank" href="https://replit.com/github/Mesita12/ItoBot-MRX"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
 <a href="https://replit.com/github/Mesita12/ItoBot-MRXD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
