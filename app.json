@@ -1,0 +1,10 @@
+{
+  "name": "ItoBot-MRX",  
+  "description": "Super Bot WhatsApp",
+  "repository": "https://github.com/Mesita12/ItoBot-MRX",
+  "logo": "https://i.imgur.com/8fK4h6F.jpg",
+  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "buildpacks": [
+  
+ ]
+}
